@@ -5,7 +5,7 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|1|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
